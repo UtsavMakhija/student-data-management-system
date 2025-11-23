@@ -1,14 +1,14 @@
-## 📝 Project Statement: Simple Student Management System (CLI)
+## Project Statement: Simple Student Management System (CLI)
 
 -----
 
-### 🎯 Problem Statement
+### Problem Statement
 
-The goal is to address the need for a **simple, accessible, and quick-to-use digital system** to store, retrieve, update, and delete basic academic and personal records for students. Currently, managing student data often relies on manual, scattered, or overly complex systems, leading to inefficiencies in tracking essential information like admission details, personal identifiers, and subject grades. This project provides a consolidated, in-memory solution for fundamental data management operations.
+The goal is to address the need for a **simple, accessible, and quick-to-use digital system** to store, view, update, and delete basic academic and personal records for students. Currently, managing student data often relies on manual, scattered, or overly complex systems, leading to inefficiencies in tracking essential information like admission details, personal identifiers, and subject grades. This project provides a simple consolidated, in-memory solution for fundamental data management operations.
 
 -----
 
-### 🌐 Scope of the Project
+### Scope of the Project
 
 The scope of this project is limited to providing core **CRUD (Create, Read, Update, Delete)** functionalities for student records within a **Command Line Interface (CLI)** environment.
 
@@ -18,7 +18,7 @@ The scope of this project is limited to providing core **CRUD (Create, Read, Upd
 
 -----
 
-### 👤 Target Users
+### Target Users
 
   * **Small Academic Departments or Tutors:** Individuals or groups needing to manage a small, temporary list of student data without the need for complex database infrastructure.
   * **Beginner Programmers or Learners:** Anyone seeking a clear, functional example of fundamental Python programming concepts, including lists, dictionaries, functions, and control flow (loops and conditionals).
@@ -26,7 +26,7 @@ The scope of this project is limited to providing core **CRUD (Create, Read, Upd
 
 -----
 
-### ✨ High-Level Features
+### High-Level Features
 
 | Feature Category | Description |
 | :--- | :--- |
@@ -34,6 +34,3 @@ The scope of this project is limited to providing core **CRUD (Create, Read, Upd
 | **Reading (R)** | **View Student Details:** Retrieve and display a complete student record using their unique Admission Number. |
 | **Updating (U)** | **Edit Details:** Modify personal fields (Name, DOB, Admission Number, Blood Group) of an existing student record. |
 | **Deletion (D)** | **Remove Student:** Permanently delete a student's entire record from the system using the Admission Number. |
-
-<br>
-Would you like to generate documentation for the specific functions (e.g., `add_data`, `edit_students`) used in the code?
